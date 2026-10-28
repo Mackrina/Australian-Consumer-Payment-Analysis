@@ -1,4 +1,6 @@
-Australian Consumer Payment Behaviour | 2007–2022
+#Australian Consumer Payment Behaviour | 2007–2022
+
+
 An independent Power BI portfolio project analysing how Australian consumers' payment methods changed across six Reserve Bank of Australia Consumer Payments Surveys.
 Project objective
 Explore changes in cash, debit card and credit card usage, and investigate variation by age group, household income, region, transaction size and payment purpose.
