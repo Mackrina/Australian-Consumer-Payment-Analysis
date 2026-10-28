@@ -1,4 +1,4 @@
-#Australian Consumer Payment Behaviour | 2007–2022
+Australian Consumer Payment Behaviour | 2007–2022
 
 
 An independent Power BI portfolio project analysing how Australian consumers' payment methods changed across six Reserve Bank of Australia Consumer Payments Surveys.
